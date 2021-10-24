@@ -1,1 +1,1 @@
-# A breakdown of regular expressionss in python.
+# A breakdown of regular expressions in python.
